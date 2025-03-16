@@ -3,7 +3,7 @@ A Discord Bot "Powered by AI" with which you can talk.
 
 
 ## Installation🚀
-You have 2 methods to choose from to install AlyBot
+You have 2 methods to choose from to install AlyBot.
 
 ### Method 1: Using the python3 command.
 1. Clone this repository.<br>
