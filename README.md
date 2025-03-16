@@ -23,4 +23,4 @@ You have 2 methods to choose from to install AlyBot
 4. Build the Docker Image.<br>
 ```docker build -t alybot .```
 5. Run the Docker Container.<br>
-``````
+```docker run -d alybot```
