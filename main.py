@@ -22,7 +22,7 @@ class MyClient(discord.Client):
         elif isinstance(message.channel, discord.DMChannel):
             completion = client_ai.chat.completions.create(
                 extra_body={},
-                model="<ai-model>",
+                model="ai-model",
                 messages=[
                     {
                         "role": "user",
