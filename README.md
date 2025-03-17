@@ -24,3 +24,6 @@ You have 2 methods to choose from to install AlyBot.
 ```docker build -t alybot .```
 5. Run the Docker Container.<br>
 ```docker run -d alybot```
+
+## Interaction🗣️
+In a DM you can just say something to the bot and it responds, while in a server you need to ping it in your message.
